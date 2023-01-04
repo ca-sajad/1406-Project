@@ -1,0 +1,38 @@
+.list-view {
+    -fx-font: 14 arial;
+    -fx-font-weight: bold;
+}
+
+.list-view .list-cell:odd {
+    -fx-background-color: rgb(170, 200, 220);
+}
+
+.list-view .list-cell:even {
+    -fx-background-color: rgb(160, 200, 220);
+}
+
+.label {
+    -fx-font: 18 arial;
+    -fx-font-weight: bold;
+    -fx-alignment: CENTER;
+}
+
+.text-field {
+    -fx-font: 14 arial;
+    -fx-font-weight: bold;
+    -fx-base: rgb(200,210,210);
+    -fx-text-fill: rgb(0,0,0);
+}
+
+.radio-button {
+    -fx-font: 13 arial;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-font: 16 arial;
+    -fx-font-weight: bold;
+    -fx-base: rgb(40,90,90);
+    -fx-text-fill: rgb(255,255,255);
+}
+
