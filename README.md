@@ -1,5 +1,5 @@
 # 1406-Project
-## Final Code for 1405Z Project, Carleton University, Fall 2022
+## Final Code for 1406Z Project, Carleton University, Fall 2022
 
 ### This is a simple search engine that scrapes 1000 webpages containing a limited number of words (i.e. fruit names) and saves data such as term frequency, page rank, ... in text files. 
 ### Then, user can search for fruit names and receive the top 10 most reputable URLs (based on page rank calculations) with the most occurrences of those fruit names (based on Vector Space Model).
